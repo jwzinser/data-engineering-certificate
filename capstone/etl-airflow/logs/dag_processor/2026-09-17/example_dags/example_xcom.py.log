@@ -1,0 +1,2 @@
+{"timestamp":"2026-09-17T16:51:41.348893Z","level":"info","event":"Filling up the DagBag from /Users/juanzinser/Documents/.venv/lib/python3.13/site-packages/airflow/example_dags/example_xcom.py","logger":"airflow.dag_processing.dagbag.BundleDagBag","filename":"dagbag.py","lineno":460}
+{"timestamp":"2026-09-17T16:52:12.234788Z","level":"info","event":"Filling up the DagBag from /Users/juanzinser/Documents/.venv/lib/python3.13/site-packages/airflow/example_dags/example_xcom.py","logger":"airflow.dag_processing.dagbag.BundleDagBag","filename":"dagbag.py","lineno":460}

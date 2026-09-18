@@ -1,0 +1,1 @@
+*/1 * * * * /usr/local/bin/backup.sh ~/Documents/projects/data-engineering-certificate/shell-scripting/important-documents ~/Documents/projects/data-engineering-certificate/shell-scripting/

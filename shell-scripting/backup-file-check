@@ -1,0 +1,10 @@
+total 48
+-rw-r--r--@ 1 juanzinser  staff  4780 Sep 15 21:17 backup-[1789528679].tar.gz
+-rw-r--r--@ 1 juanzinser  staff     0 Sep 15 21:18 backup-file-check
+-rw-r--r--@ 1 juanzinser  staff    61 Sep 15 21:17 backup-permissions
+-rwxr-xr-x@ 1 juanzinser  staff  1373 Sep 15 21:12 backup.sh
+drwxr-xr-x@ 5 juanzinser  staff   160 Sep 15 21:17 important-documents
+-rw-r--r--@ 1 juanzinser  staff  4995 Sep 28  2022 important-documents.zip
+drwxr-xr-x@ 3 juanzinser  staff    96 Sep 15 21:12 lalala
+drwxr-xr-x@ 5 juanzinser  staff   160 Sep 15 21:12 lilili
+-rw-r--r--@ 1 juanzinser  staff     0 Sep 15 19:55 lksmad.csv
